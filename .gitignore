@@ -1,0 +1,13 @@
+SRNet/
+
+module/
+
+*.pth
+
+*.jpg
+
+*.PNG
+
+*.mp4
+
+*.model

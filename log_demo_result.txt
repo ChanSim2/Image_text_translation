@@ -1,0 +1,408 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8699
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8982
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/ant+hill_1_0.jpg	a                        	0.3677
+demo_image/ant+hill_1_1.jpg	a                        	0.3806
+demo_image/ant+hill_1_2.jpg	9                        	0.4290
+demo_image/ant+hill_1_3.jpg	i                        	0.3114
+demo_image/ant+hill_1_4.jpg	a                        	0.3975
+demo_image/ant+hill_1_5.jpg	a                        	0.4154
+demo_image/ant+hill_1_6.jpg	a                        	0.5164
+demo_image/ant+hill_1_7.jpg	9                        	0.3360
+demo_image/ant+hill_1_8.jpg	a                        	0.3225
+demo_image/ant+hill_1_9.jpg	9                        	0.4965
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9426
+demo_image/demo_3.png    	london                   	0.8700
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8430
+demo_image/demo_10.jpg   	university               	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/IMG_0030.JPG  	you                      	0.3031
+demo_image/IMG_0059.JPG  	contrationalizes         	0.0000
+demo_image/IMG_0063.JPG  	and                      	0.0225
+demo_image/IMG_0064.JPG  	the                      	0.1091
+demo_image/IMG_0080.JPG  	contractional            	0.0000
+demo_image/IMG_0081.JPG  	the                      	0.0479
+demo_image/IMG_0103.JPG  	cons                     	0.0033
+demo_image/IMG_0155.JPG  	coo                      	0.0638
+demo_image/IMG_0156.JPG  	contractional            	0.0000
+demo_image/IMG_0158.JPG  	for                      	0.6066
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9418
+demo_image/demo_3.png    	london                   	0.8700
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8691
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8982
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8691
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8691
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8691
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8689
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8691
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8982
+demo_image/demo_9.jpg    	bally                    	0.8473
+demo_image/demo_10.jpg   	university               	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8689
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8691
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8982
+demo_image/demo_9.jpg    	bally                    	0.8473
+demo_image/demo_10.jpg   	university               	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9418
+demo_image/demo_3.png    	london                   	0.8700
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8984
+demo_image/demo_9.jpg    	bally                    	0.8473
+demo_image/demo_10.jpg   	university               	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9421
+demo_image/demo_3.png    	london                   	0.8689
+demo_image/demo_4.png    	greenstead               	0.9990
+demo_image/demo_5.png    	toast                    	0.9971
+demo_image/demo_6.png    	merry                    	0.9987
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8983
+demo_image/demo_9.jpg    	bally                    	0.8474
+demo_image/demo_10.jpg   	university               	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	predicted_translate      	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8689
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8983
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8474
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	predicted_translate      	confidence score
+------------------------------------------------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8689
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8983
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8474
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	predicted_translate      	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8691
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8982
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8473
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-----------
+image_path               	predicted_labels         	translation              	confidence score
+-----------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8689
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8983
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8474
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+--------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+--------------------------------------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8700
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8983
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8474
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0022
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8689
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8983
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8474
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8689
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8983
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8474
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8689
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8983
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8474
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	이용 가능한                   	0.9999
+demo_image/demo_2.jpg    	shakeshack               	쉐이크쉑                     	0.9421
+demo_image/demo_3.png    	london                   	런던의                      	0.8691
+demo_image/demo_4.png    	greenstead               	그린스테드의                   	0.9990
+demo_image/demo_5.png    	toast                    	토스트를 굽다                  	0.9971
+demo_image/demo_6.png    	merry                    	명랑한                      	0.9987
+demo_image/demo_7.png    	underground              	지하의                      	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	호나우두                     	0.8982
+demo_image/demo_9.jpg    	bally                    	발리                       	0.8473
+demo_image/demo_10.jpg   	university               	대학                       	0.9999
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0021
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
+-------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels         	translation              	confidence score
+-------------------------------------------------------------------------------------------------------------------
+demo_image/res_aa1_cut0.jpg	nerglaged                	네글레이드의                   	0.0023
+demo_image/res_aa1_cut1.jpg	starbucks                	스타벅스                     	0.9993
+demo_image/res_aa1_cut2.jpg	coffee                   	커피                       	0.9998
